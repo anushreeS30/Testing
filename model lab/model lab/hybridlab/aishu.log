@@ -1,0 +1,20 @@
+2024-05-01 23:30:25 INFO  hybrid:70 - opening url
+  2024-05-01 23:30:28 WARN  hybrid:72 - Time wait
+  2024-05-01 23:30:40 INFO  hybrid:75 - give now clicked
+  2024-05-01 23:30:43 WARN  hybrid:77 - Time wait
+  2024-05-01 23:30:44 INFO  hybrid:79 - $250 selected
+  2024-05-01 23:30:47 WARN  hybrid:82 - Time wait
+  2024-05-01 23:30:47 INFO  hybrid:86 - Medical education selected
+  2024-05-01 23:30:47 INFO  hybrid:88 - checkbox selected
+  2024-05-01 23:30:50 WARN  hybrid:90 - Time wait
+  2024-05-01 23:30:51 INFO  hybrid:95 - Title selected
+  2024-05-01 23:30:51 INFO  hybrid:98 - firstname entered
+  2024-05-01 23:30:51 INFO  hybrid:100 - lastname entered
+  2024-05-01 23:30:52 WARN  hybrid:103 - Time wait
+  2024-05-01 23:30:53 INFO  hybrid:107 - India selected
+  2024-05-01 23:30:54 WARN  hybrid:110 - Time wait
+  2024-05-01 23:30:54 INFO  hybrid:114 - state selected
+  2024-05-01 23:30:55 INFO  hybrid:121 - address filled
+  2024-05-01 23:30:57 WARN  hybrid:123 - Time wait
+  2024-05-01 23:31:18 INFO  hybrid:131 - Assertion done and program terminated
+  
